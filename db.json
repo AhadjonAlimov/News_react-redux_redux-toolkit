@@ -1,0 +1,42 @@
+{
+  "news": [
+    {
+      "id": "19cae063-d0d3-48f7-a17d-7fca13904961",
+      "name": "Political dialogue, cooperation: Spox",
+      "description": "CAIRO – 12 November 2021: European Union Spokesman in the Middle East and North Africa Luis Miguel Bueno said on Friday that Egypt is an important partner to the EU.",
+      "category": "Hot News"
+    },
+    {
+      "id": "8bcdaf77-d481-4387-8086-07c3e351def2",
+      "name": "Political dialogue, cooperation: Spox",
+      "description": "CAIRO – 12 November 2021: European Union Spokesman in the Middle East and North Africa Luis Miguel Bueno said on Friday that Egypt is an important partner to the EU",
+      "category": "Sport News"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "name": "all",
+      "label": "All",
+      "className": "btn-outline-dark"
+    },
+    {
+      "id": "Hot News",
+      "name": "Hot News",
+      "label": "Hot News",
+      "className": "btn-danger"
+    },
+    {
+      "id": "Sport News",
+      "name": "Sport News",
+      "label": "Sport News",
+      "className": "btn-primary"
+    },
+    {
+      "id": "World News",
+      "name": "World News",
+      "label": "World news",
+      "className": "btn-success"
+    }
+  ]
+}
