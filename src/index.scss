@@ -7,7 +7,7 @@
 }
 .app {
   height: 100vh;
-  overflow: scroll;
+  overflow: auto;
   background: url('./assets/bg.jpg') center / cover no-repeat;
 }
 .content {
