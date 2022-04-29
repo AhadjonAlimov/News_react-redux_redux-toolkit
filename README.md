@@ -1,6 +1,9 @@
 # Good day
 
 # Description: This project includes:
+- ReactJS,
+- Redux,
+- Redux-toolkit,
 - get, post, delete methods,
 - fake json-server,
 - filtering news.
