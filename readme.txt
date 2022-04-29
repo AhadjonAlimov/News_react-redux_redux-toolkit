@@ -1,7 +1,7 @@
 Good day. 
 
 Description: This project includes:
-- create, post, delete methods,
+- get, post, delete methods,
 - fake json-server,
 - filtering news.
 
